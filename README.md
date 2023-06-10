@@ -1,2 +1,2 @@
 # my_leetcode_solutions
-adding code for leetcode problems I solved
+adding code for problems I solved
